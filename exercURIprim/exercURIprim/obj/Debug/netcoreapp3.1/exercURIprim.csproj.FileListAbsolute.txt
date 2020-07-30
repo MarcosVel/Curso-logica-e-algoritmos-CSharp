@@ -1,0 +1,13 @@
+E:\Users\Usuario\source\repos\exercURIprim\exercURIprim\bin\Debug\netcoreapp3.1\exercURIprim.exe
+E:\Users\Usuario\source\repos\exercURIprim\exercURIprim\bin\Debug\netcoreapp3.1\exercURIprim.deps.json
+E:\Users\Usuario\source\repos\exercURIprim\exercURIprim\bin\Debug\netcoreapp3.1\exercURIprim.runtimeconfig.json
+E:\Users\Usuario\source\repos\exercURIprim\exercURIprim\bin\Debug\netcoreapp3.1\exercURIprim.runtimeconfig.dev.json
+E:\Users\Usuario\source\repos\exercURIprim\exercURIprim\bin\Debug\netcoreapp3.1\exercURIprim.dll
+E:\Users\Usuario\source\repos\exercURIprim\exercURIprim\bin\Debug\netcoreapp3.1\exercURIprim.pdb
+E:\Users\Usuario\source\repos\exercURIprim\exercURIprim\obj\Debug\netcoreapp3.1\exercURIprim.csprojAssemblyReference.cache
+E:\Users\Usuario\source\repos\exercURIprim\exercURIprim\obj\Debug\netcoreapp3.1\exercURIprim.AssemblyInfoInputs.cache
+E:\Users\Usuario\source\repos\exercURIprim\exercURIprim\obj\Debug\netcoreapp3.1\exercURIprim.AssemblyInfo.cs
+E:\Users\Usuario\source\repos\exercURIprim\exercURIprim\obj\Debug\netcoreapp3.1\exercURIprim.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\source\repos\exercURIprim\exercURIprim\obj\Debug\netcoreapp3.1\exercURIprim.dll
+E:\Users\Usuario\source\repos\exercURIprim\exercURIprim\obj\Debug\netcoreapp3.1\exercURIprim.pdb
+E:\Users\Usuario\source\repos\exercURIprim\exercURIprim\obj\Debug\netcoreapp3.1\exercURIprim.genruntimeconfig.cache

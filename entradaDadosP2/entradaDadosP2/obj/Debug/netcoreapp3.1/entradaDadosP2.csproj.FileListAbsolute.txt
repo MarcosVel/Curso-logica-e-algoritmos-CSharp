@@ -1,0 +1,13 @@
+E:\Users\Usuario\source\repos\entradaDadosP2\entradaDadosP2\bin\Debug\netcoreapp3.1\entradaDadosP2.exe
+E:\Users\Usuario\source\repos\entradaDadosP2\entradaDadosP2\bin\Debug\netcoreapp3.1\entradaDadosP2.deps.json
+E:\Users\Usuario\source\repos\entradaDadosP2\entradaDadosP2\bin\Debug\netcoreapp3.1\entradaDadosP2.runtimeconfig.json
+E:\Users\Usuario\source\repos\entradaDadosP2\entradaDadosP2\bin\Debug\netcoreapp3.1\entradaDadosP2.runtimeconfig.dev.json
+E:\Users\Usuario\source\repos\entradaDadosP2\entradaDadosP2\bin\Debug\netcoreapp3.1\entradaDadosP2.dll
+E:\Users\Usuario\source\repos\entradaDadosP2\entradaDadosP2\bin\Debug\netcoreapp3.1\entradaDadosP2.pdb
+E:\Users\Usuario\source\repos\entradaDadosP2\entradaDadosP2\obj\Debug\netcoreapp3.1\entradaDadosP2.csprojAssemblyReference.cache
+E:\Users\Usuario\source\repos\entradaDadosP2\entradaDadosP2\obj\Debug\netcoreapp3.1\entradaDadosP2.AssemblyInfoInputs.cache
+E:\Users\Usuario\source\repos\entradaDadosP2\entradaDadosP2\obj\Debug\netcoreapp3.1\entradaDadosP2.AssemblyInfo.cs
+E:\Users\Usuario\source\repos\entradaDadosP2\entradaDadosP2\obj\Debug\netcoreapp3.1\entradaDadosP2.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\source\repos\entradaDadosP2\entradaDadosP2\obj\Debug\netcoreapp3.1\entradaDadosP2.dll
+E:\Users\Usuario\source\repos\entradaDadosP2\entradaDadosP2\obj\Debug\netcoreapp3.1\entradaDadosP2.pdb
+E:\Users\Usuario\source\repos\entradaDadosP2\entradaDadosP2\obj\Debug\netcoreapp3.1\entradaDadosP2.genruntimeconfig.cache

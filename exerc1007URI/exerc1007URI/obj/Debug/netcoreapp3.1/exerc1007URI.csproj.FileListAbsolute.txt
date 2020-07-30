@@ -1,0 +1,12 @@
+E:\Users\Usuario\source\repos\exerc1007URI\exerc1007URI\bin\Debug\netcoreapp3.1\exerc1007URI.exe
+E:\Users\Usuario\source\repos\exerc1007URI\exerc1007URI\bin\Debug\netcoreapp3.1\exerc1007URI.deps.json
+E:\Users\Usuario\source\repos\exerc1007URI\exerc1007URI\bin\Debug\netcoreapp3.1\exerc1007URI.runtimeconfig.json
+E:\Users\Usuario\source\repos\exerc1007URI\exerc1007URI\bin\Debug\netcoreapp3.1\exerc1007URI.runtimeconfig.dev.json
+E:\Users\Usuario\source\repos\exerc1007URI\exerc1007URI\bin\Debug\netcoreapp3.1\exerc1007URI.dll
+E:\Users\Usuario\source\repos\exerc1007URI\exerc1007URI\bin\Debug\netcoreapp3.1\exerc1007URI.pdb
+E:\Users\Usuario\source\repos\exerc1007URI\exerc1007URI\obj\Debug\netcoreapp3.1\exerc1007URI.AssemblyInfoInputs.cache
+E:\Users\Usuario\source\repos\exerc1007URI\exerc1007URI\obj\Debug\netcoreapp3.1\exerc1007URI.AssemblyInfo.cs
+E:\Users\Usuario\source\repos\exerc1007URI\exerc1007URI\obj\Debug\netcoreapp3.1\exerc1007URI.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\source\repos\exerc1007URI\exerc1007URI\obj\Debug\netcoreapp3.1\exerc1007URI.dll
+E:\Users\Usuario\source\repos\exerc1007URI\exerc1007URI\obj\Debug\netcoreapp3.1\exerc1007URI.pdb
+E:\Users\Usuario\source\repos\exerc1007URI\exerc1007URI\obj\Debug\netcoreapp3.1\exerc1007URI.genruntimeconfig.cache
