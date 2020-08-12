@@ -1,0 +1,13 @@
+E:\Users\Usuario\source\repos\exercResol03Sec4\exercResol03Sec4\bin\Debug\netcoreapp3.1\exercResol03Sec4.exe
+E:\Users\Usuario\source\repos\exercResol03Sec4\exercResol03Sec4\bin\Debug\netcoreapp3.1\exercResol03Sec4.deps.json
+E:\Users\Usuario\source\repos\exercResol03Sec4\exercResol03Sec4\bin\Debug\netcoreapp3.1\exercResol03Sec4.runtimeconfig.json
+E:\Users\Usuario\source\repos\exercResol03Sec4\exercResol03Sec4\bin\Debug\netcoreapp3.1\exercResol03Sec4.runtimeconfig.dev.json
+E:\Users\Usuario\source\repos\exercResol03Sec4\exercResol03Sec4\bin\Debug\netcoreapp3.1\exercResol03Sec4.dll
+E:\Users\Usuario\source\repos\exercResol03Sec4\exercResol03Sec4\bin\Debug\netcoreapp3.1\exercResol03Sec4.pdb
+E:\Users\Usuario\source\repos\exercResol03Sec4\exercResol03Sec4\obj\Debug\netcoreapp3.1\exercResol03Sec4.csprojAssemblyReference.cache
+E:\Users\Usuario\source\repos\exercResol03Sec4\exercResol03Sec4\obj\Debug\netcoreapp3.1\exercResol03Sec4.AssemblyInfoInputs.cache
+E:\Users\Usuario\source\repos\exercResol03Sec4\exercResol03Sec4\obj\Debug\netcoreapp3.1\exercResol03Sec4.AssemblyInfo.cs
+E:\Users\Usuario\source\repos\exercResol03Sec4\exercResol03Sec4\obj\Debug\netcoreapp3.1\exercResol03Sec4.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\source\repos\exercResol03Sec4\exercResol03Sec4\obj\Debug\netcoreapp3.1\exercResol03Sec4.dll
+E:\Users\Usuario\source\repos\exercResol03Sec4\exercResol03Sec4\obj\Debug\netcoreapp3.1\exercResol03Sec4.pdb
+E:\Users\Usuario\source\repos\exercResol03Sec4\exercResol03Sec4\obj\Debug\netcoreapp3.1\exercResol03Sec4.genruntimeconfig.cache

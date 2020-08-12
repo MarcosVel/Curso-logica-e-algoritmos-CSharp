@@ -1,0 +1,13 @@
+E:\Users\Usuario\source\repos\testeDeMesa41\testeDeMesa41\bin\Debug\netcoreapp3.1\testeDeMesa41.exe
+E:\Users\Usuario\source\repos\testeDeMesa41\testeDeMesa41\bin\Debug\netcoreapp3.1\testeDeMesa41.deps.json
+E:\Users\Usuario\source\repos\testeDeMesa41\testeDeMesa41\bin\Debug\netcoreapp3.1\testeDeMesa41.runtimeconfig.json
+E:\Users\Usuario\source\repos\testeDeMesa41\testeDeMesa41\bin\Debug\netcoreapp3.1\testeDeMesa41.runtimeconfig.dev.json
+E:\Users\Usuario\source\repos\testeDeMesa41\testeDeMesa41\bin\Debug\netcoreapp3.1\testeDeMesa41.dll
+E:\Users\Usuario\source\repos\testeDeMesa41\testeDeMesa41\bin\Debug\netcoreapp3.1\testeDeMesa41.pdb
+E:\Users\Usuario\source\repos\testeDeMesa41\testeDeMesa41\obj\Debug\netcoreapp3.1\testeDeMesa41.csprojAssemblyReference.cache
+E:\Users\Usuario\source\repos\testeDeMesa41\testeDeMesa41\obj\Debug\netcoreapp3.1\testeDeMesa41.AssemblyInfoInputs.cache
+E:\Users\Usuario\source\repos\testeDeMesa41\testeDeMesa41\obj\Debug\netcoreapp3.1\testeDeMesa41.AssemblyInfo.cs
+E:\Users\Usuario\source\repos\testeDeMesa41\testeDeMesa41\obj\Debug\netcoreapp3.1\testeDeMesa41.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\source\repos\testeDeMesa41\testeDeMesa41\obj\Debug\netcoreapp3.1\testeDeMesa41.dll
+E:\Users\Usuario\source\repos\testeDeMesa41\testeDeMesa41\obj\Debug\netcoreapp3.1\testeDeMesa41.pdb
+E:\Users\Usuario\source\repos\testeDeMesa41\testeDeMesa41\obj\Debug\netcoreapp3.1\testeDeMesa41.genruntimeconfig.cache

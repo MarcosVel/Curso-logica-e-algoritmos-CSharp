@@ -1,0 +1,13 @@
+E:\Users\Usuario\source\repos\exerc1011URI\exerc1011URI\bin\Debug\netcoreapp3.1\exerc1011URI.exe
+E:\Users\Usuario\source\repos\exerc1011URI\exerc1011URI\bin\Debug\netcoreapp3.1\exerc1011URI.deps.json
+E:\Users\Usuario\source\repos\exerc1011URI\exerc1011URI\bin\Debug\netcoreapp3.1\exerc1011URI.runtimeconfig.json
+E:\Users\Usuario\source\repos\exerc1011URI\exerc1011URI\bin\Debug\netcoreapp3.1\exerc1011URI.runtimeconfig.dev.json
+E:\Users\Usuario\source\repos\exerc1011URI\exerc1011URI\bin\Debug\netcoreapp3.1\exerc1011URI.dll
+E:\Users\Usuario\source\repos\exerc1011URI\exerc1011URI\bin\Debug\netcoreapp3.1\exerc1011URI.pdb
+E:\Users\Usuario\source\repos\exerc1011URI\exerc1011URI\obj\Debug\netcoreapp3.1\exerc1011URI.csprojAssemblyReference.cache
+E:\Users\Usuario\source\repos\exerc1011URI\exerc1011URI\obj\Debug\netcoreapp3.1\exerc1011URI.AssemblyInfoInputs.cache
+E:\Users\Usuario\source\repos\exerc1011URI\exerc1011URI\obj\Debug\netcoreapp3.1\exerc1011URI.AssemblyInfo.cs
+E:\Users\Usuario\source\repos\exerc1011URI\exerc1011URI\obj\Debug\netcoreapp3.1\exerc1011URI.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\source\repos\exerc1011URI\exerc1011URI\obj\Debug\netcoreapp3.1\exerc1011URI.dll
+E:\Users\Usuario\source\repos\exerc1011URI\exerc1011URI\obj\Debug\netcoreapp3.1\exerc1011URI.pdb
+E:\Users\Usuario\source\repos\exerc1011URI\exerc1011URI\obj\Debug\netcoreapp3.1\exerc1011URI.genruntimeconfig.cache
