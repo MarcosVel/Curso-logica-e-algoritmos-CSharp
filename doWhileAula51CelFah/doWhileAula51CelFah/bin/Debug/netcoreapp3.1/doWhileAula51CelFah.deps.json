@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "doWhileAula51CelFah/1.0.0": {
+        "runtime": {
+          "doWhileAula51CelFah.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "doWhileAula51CelFah/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

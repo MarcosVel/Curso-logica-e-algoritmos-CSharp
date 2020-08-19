@@ -1,0 +1,13 @@
+E:\Users\Usuario\source\repos\doWhileAula51CelFah\doWhileAula51CelFah\bin\Debug\netcoreapp3.1\doWhileAula51CelFah.exe
+E:\Users\Usuario\source\repos\doWhileAula51CelFah\doWhileAula51CelFah\bin\Debug\netcoreapp3.1\doWhileAula51CelFah.deps.json
+E:\Users\Usuario\source\repos\doWhileAula51CelFah\doWhileAula51CelFah\bin\Debug\netcoreapp3.1\doWhileAula51CelFah.runtimeconfig.json
+E:\Users\Usuario\source\repos\doWhileAula51CelFah\doWhileAula51CelFah\bin\Debug\netcoreapp3.1\doWhileAula51CelFah.runtimeconfig.dev.json
+E:\Users\Usuario\source\repos\doWhileAula51CelFah\doWhileAula51CelFah\bin\Debug\netcoreapp3.1\doWhileAula51CelFah.dll
+E:\Users\Usuario\source\repos\doWhileAula51CelFah\doWhileAula51CelFah\bin\Debug\netcoreapp3.1\doWhileAula51CelFah.pdb
+E:\Users\Usuario\source\repos\doWhileAula51CelFah\doWhileAula51CelFah\obj\Debug\netcoreapp3.1\doWhileAula51CelFah.csprojAssemblyReference.cache
+E:\Users\Usuario\source\repos\doWhileAula51CelFah\doWhileAula51CelFah\obj\Debug\netcoreapp3.1\doWhileAula51CelFah.AssemblyInfoInputs.cache
+E:\Users\Usuario\source\repos\doWhileAula51CelFah\doWhileAula51CelFah\obj\Debug\netcoreapp3.1\doWhileAula51CelFah.AssemblyInfo.cs
+E:\Users\Usuario\source\repos\doWhileAula51CelFah\doWhileAula51CelFah\obj\Debug\netcoreapp3.1\doWhileAula51CelFah.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\source\repos\doWhileAula51CelFah\doWhileAula51CelFah\obj\Debug\netcoreapp3.1\doWhileAula51CelFah.dll
+E:\Users\Usuario\source\repos\doWhileAula51CelFah\doWhileAula51CelFah\obj\Debug\netcoreapp3.1\doWhileAula51CelFah.pdb
+E:\Users\Usuario\source\repos\doWhileAula51CelFah\doWhileAula51CelFah\obj\Debug\netcoreapp3.1\doWhileAula51CelFah.genruntimeconfig.cache
