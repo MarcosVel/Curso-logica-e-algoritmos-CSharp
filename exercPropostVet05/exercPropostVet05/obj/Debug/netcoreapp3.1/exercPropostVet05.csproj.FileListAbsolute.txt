@@ -1,0 +1,13 @@
+C:\Users\marcos\source\repos\exercPropostVet05\exercPropostVet05\bin\Debug\netcoreapp3.1\exercPropostVet05.exe
+C:\Users\marcos\source\repos\exercPropostVet05\exercPropostVet05\bin\Debug\netcoreapp3.1\exercPropostVet05.deps.json
+C:\Users\marcos\source\repos\exercPropostVet05\exercPropostVet05\bin\Debug\netcoreapp3.1\exercPropostVet05.runtimeconfig.json
+C:\Users\marcos\source\repos\exercPropostVet05\exercPropostVet05\bin\Debug\netcoreapp3.1\exercPropostVet05.runtimeconfig.dev.json
+C:\Users\marcos\source\repos\exercPropostVet05\exercPropostVet05\bin\Debug\netcoreapp3.1\exercPropostVet05.dll
+C:\Users\marcos\source\repos\exercPropostVet05\exercPropostVet05\bin\Debug\netcoreapp3.1\exercPropostVet05.pdb
+C:\Users\marcos\source\repos\exercPropostVet05\exercPropostVet05\obj\Debug\netcoreapp3.1\exercPropostVet05.csprojAssemblyReference.cache
+C:\Users\marcos\source\repos\exercPropostVet05\exercPropostVet05\obj\Debug\netcoreapp3.1\exercPropostVet05.AssemblyInfoInputs.cache
+C:\Users\marcos\source\repos\exercPropostVet05\exercPropostVet05\obj\Debug\netcoreapp3.1\exercPropostVet05.AssemblyInfo.cs
+C:\Users\marcos\source\repos\exercPropostVet05\exercPropostVet05\obj\Debug\netcoreapp3.1\exercPropostVet05.csproj.CoreCompileInputs.cache
+C:\Users\marcos\source\repos\exercPropostVet05\exercPropostVet05\obj\Debug\netcoreapp3.1\exercPropostVet05.dll
+C:\Users\marcos\source\repos\exercPropostVet05\exercPropostVet05\obj\Debug\netcoreapp3.1\exercPropostVet05.pdb
+C:\Users\marcos\source\repos\exercPropostVet05\exercPropostVet05\obj\Debug\netcoreapp3.1\exercPropostVet05.genruntimeconfig.cache
