@@ -11,3 +11,4 @@ adicionei os exerc da seção 5, faltam somente alguns do ExercPros4;
 
 02/09
 adicionei os exerc da seção 6;
+adicionei os exerc da seção 7;
