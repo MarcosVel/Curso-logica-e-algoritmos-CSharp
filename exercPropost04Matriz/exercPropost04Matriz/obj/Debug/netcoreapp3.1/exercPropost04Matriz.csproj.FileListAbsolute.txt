@@ -1,0 +1,13 @@
+C:\Users\marcos\source\repos\exercPropost04Matriz\exercPropost04Matriz\bin\Debug\netcoreapp3.1\exercPropost04Matriz.exe
+C:\Users\marcos\source\repos\exercPropost04Matriz\exercPropost04Matriz\bin\Debug\netcoreapp3.1\exercPropost04Matriz.deps.json
+C:\Users\marcos\source\repos\exercPropost04Matriz\exercPropost04Matriz\bin\Debug\netcoreapp3.1\exercPropost04Matriz.runtimeconfig.json
+C:\Users\marcos\source\repos\exercPropost04Matriz\exercPropost04Matriz\bin\Debug\netcoreapp3.1\exercPropost04Matriz.runtimeconfig.dev.json
+C:\Users\marcos\source\repos\exercPropost04Matriz\exercPropost04Matriz\bin\Debug\netcoreapp3.1\exercPropost04Matriz.dll
+C:\Users\marcos\source\repos\exercPropost04Matriz\exercPropost04Matriz\bin\Debug\netcoreapp3.1\exercPropost04Matriz.pdb
+C:\Users\marcos\source\repos\exercPropost04Matriz\exercPropost04Matriz\obj\Debug\netcoreapp3.1\exercPropost04Matriz.csprojAssemblyReference.cache
+C:\Users\marcos\source\repos\exercPropost04Matriz\exercPropost04Matriz\obj\Debug\netcoreapp3.1\exercPropost04Matriz.AssemblyInfoInputs.cache
+C:\Users\marcos\source\repos\exercPropost04Matriz\exercPropost04Matriz\obj\Debug\netcoreapp3.1\exercPropost04Matriz.AssemblyInfo.cs
+C:\Users\marcos\source\repos\exercPropost04Matriz\exercPropost04Matriz\obj\Debug\netcoreapp3.1\exercPropost04Matriz.csproj.CoreCompileInputs.cache
+C:\Users\marcos\source\repos\exercPropost04Matriz\exercPropost04Matriz\obj\Debug\netcoreapp3.1\exercPropost04Matriz.dll
+C:\Users\marcos\source\repos\exercPropost04Matriz\exercPropost04Matriz\obj\Debug\netcoreapp3.1\exercPropost04Matriz.pdb
+C:\Users\marcos\source\repos\exercPropost04Matriz\exercPropost04Matriz\obj\Debug\netcoreapp3.1\exercPropost04Matriz.genruntimeconfig.cache
